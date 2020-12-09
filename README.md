@@ -9,4 +9,4 @@ The commands are as follows:
 - /reportadmin - Open Admin GUI
 
 Reason for the reports are fully customizable in the config.yml
-
+![1](https://raw.githubusercontent.com/Taylcd/ReportUI/master/screenshots/1.png)
